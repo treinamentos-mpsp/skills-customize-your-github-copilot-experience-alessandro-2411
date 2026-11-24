@@ -1,11 +1,11 @@
 
-# 📘 Tarefa: Fundamentos de Python
+# 📘 Atividade: Fundamentos de Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique habilidades fundamentais de programação em Python, incluindo entrada de dados do usuário, formatação de strings, operações aritméticas e instruções condicionais, implementando funções simples.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Entrada de Dados e Formatação de Strings
 
@@ -19,7 +19,10 @@ O programa completo deve:
 - Retornar uma mensagem de boas-vindas formatada como:
   `Hello, [nome]! You are [idade] years old and your favorite color is [cor].`
 - Exemplo de saída:
-  `Hello, Alice! You are 25 years old and your favorite color is blue.`
+
+  ```text
+  Hello, Alice! You are 25 years old and your favorite color is blue.
+  ```
 
 ### 🛠️ Aritmética Básica
 
@@ -32,9 +35,12 @@ O programa completo deve:
 - Solicitar ao usuário dois números.
 - Somar os números.
 - Imprimir o resultado. Exemplo:
+
+  ```text
   Digite o primeiro número: 3
   Digite o segundo número: 7
   10
+  ```
 
 ### 🛠️ Instruções Condicionais
 
